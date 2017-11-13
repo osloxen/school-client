@@ -1,4 +1,4 @@
-foo bar foo
+elastic foo bar foo
 boom
 boom again
 
