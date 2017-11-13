@@ -1,3 +1,8 @@
+           "auth" => array(
+                "capabilities" => array( "get" )
+            )
+
+
 motzart
 blah
 company director
