@@ -1,3 +1,4 @@
+cool kids
 elastic foo bar foo
 boom
 boom again
